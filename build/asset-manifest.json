@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0eaa256.css",
+    "main.js": "/static/js/main.687232fd.js",
+    "static/media/Фон.jpg": "/static/media/Фон.86d4ca07c6fcbed14828.jpg",
+    "static/media/Троеточие.png": "/static/media/Троеточие.fc21017a464cb97aec19.png",
+    "static/media/Плюс.png": "/static/media/Плюс.2db41166aa569c85610d.png",
+    "index.html": "/index.html",
+    "main.e0eaa256.css.map": "/static/css/main.e0eaa256.css.map",
+    "main.687232fd.js.map": "/static/js/main.687232fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0eaa256.css",
+    "static/js/main.687232fd.js"
+  ]
+}
