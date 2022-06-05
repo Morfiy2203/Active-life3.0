@@ -1,0 +1,42 @@
+  @import url("/src/index.css");
+  
+  .new-task {
+    position: relative;
+    top: 100px;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: #e9f6f5;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #000000;
+    margin-bottom: 20px;
+  }
+  .new-task:hover{
+    --new-background-color: #5fdf8c;
+    background-color: var(--new-background-color);
+  }
+  .new-task__button {
+    height: 30px;
+    width: 30px;
+    border: 0px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: var(--new-background-color);
+    background-image: url('./img/Плюс.png');
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    border-radius: 15px;
+  }
+
+  .task-list{
+    position: relative;
+    margin-top: 20px;
+    top: 100px;
+  }
+
+  
+
+  
+  

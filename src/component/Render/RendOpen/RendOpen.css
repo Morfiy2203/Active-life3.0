@@ -1,0 +1,25 @@
+.task-box__edit{
+  position: absolute;
+  margin: 5px;
+  left: 102%;
+  bottom: 50%;
+  border: 2px solid #000;
+  background-color: chartreuse;
+  height: 35px;
+  font-size: 18px;
+  border-radius: 17px;
+}
+
+.task-box__delete{
+  position: absolute;
+  margin:5px;
+  left: 102%;
+  top: 50%;
+  border-radius: 5px;
+  border: 2px solid #000;
+  background-color: rgb(255, 54, 54);
+  height: 35px;
+  height: 35px;
+  font-size: 18px;
+  border-radius: 17px;
+}

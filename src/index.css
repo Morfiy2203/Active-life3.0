@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+:root{
+  --task-box-background: #34ca55;
+  --task-box-width: 300px;
+  --task-box-height: 50px;
+}
+*{
+  color: #000;
+  font-family: 'Oswald', sans-serif;
+}
+body{
+  background-image: url('./component/Field/img/Фон.jpg');
+}
+
+
+
